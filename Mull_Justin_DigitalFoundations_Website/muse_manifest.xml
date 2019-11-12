@@ -1,0 +1,55 @@
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="azzym.com" resolutions="1x" timestamp="1512425677011">
+  <folder name="css">
+    <file name="site_global.css" crc="3916556066"/>
+    <file name="master_a-master.css" crc="260568864" ref="contact:index:gallery:about"/>
+    <file name="contact.css" crc="143813646" ref="contact"/>
+    <file name="index.css" crc="4271229888" ref="index"/>
+    <file name="gallery.css" crc="107145976" ref="gallery"/>
+    <file name="about.css" crc="3846372524" ref="about"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:about:gallery:contact"/>
+    <file name="museutils.js" crc="3851988764" ref="index:about:gallery:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:gallery:contact"/>
+    <file name="museconfig.js" crc="4242129463" ref="index:about:gallery:contact"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="index:about:gallery:contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="index:contact"/>
+    <file name="require.js" crc="4108833657" ref="index:about:gallery:contact"/>
+  </folder>
+  <folder name="images">
+    <file name="mull_justin_site_button-btnup.png" crc="359632036" ref="index"/>
+    <file name="mull_justin_site_button-btnover.png" crc="436572576" ref="index"/>
+    <file name="mull_justin_site_button-btndown.png" crc="4006621003" ref="index"/>
+    <file name="mull_justin_site_button-btnhit.png" crc="4289315533" ref="index"/>
+    <file name="u226-4.png" crc="4170527138" ref="index:about:gallery:contact"/>
+    <file name="u243-4.png" crc="78086023" ref="index:about:gallery:contact"/>
+    <file name="u246-4.png" crc="4237705395" ref="index:about:gallery:contact"/>
+    <file name="u249-4.png" crc="3904877064" ref="index:about:gallery:contact"/>
+    <file name="mull_justin_logo.png" crc="515748028" seo="true" ref="index:about:gallery:contact"/>
+    <file name="20170825_172016.jpg" crc="4126126309" seo="true" ref="index"/>
+    <file name="u622-4.png" crc="4169565239" ref="index"/>
+    <file name="20170419_180827.jpg" crc="66593579" seo="true" ref="about"/>
+    <file name="u634-12.png" crc="4051904850" ref="about"/>
+    <file name="silhouette.png" crc="392870727" seo="true" ref="gallery"/>
+    <file name="u571-4.png" crc="3786817279" ref="gallery"/>
+    <file name="u577-4.png" crc="3846865095" ref="gallery"/>
+    <file name="u593-5.png" crc="4204295842" ref="gallery"/>
+    <file name="u453-4.png" crc="3942659543" ref="contact"/>
+    <file name="instagram logo-btnup.png" crc="383585979" ref="contact"/>
+    <file name="instagram logo-btnover.png" crc="241791389" ref="contact"/>
+    <file name="instagram logo-btndown.png" crc="37257019" ref="contact"/>
+    <file name="instagram logo-btnhit.png" crc="4037520797" ref="contact"/>
+    <file name="twitter logo-btnup.png" crc="160849465" ref="contact"/>
+    <file name="twitter logo-btnover.png" crc="493360210" ref="contact"/>
+    <file name="twitter logo-btndown.png" crc="3874448355" ref="contact"/>
+    <file name="twitter logo-btnhit.png" crc="4016584017" ref="contact"/>
+    <file name="u409-4.png" crc="4261070907" ref="contact"/>
+    <file name="u412-4.png" crc="257865907" ref="contact"/>
+    <file name="qr_code_azaeath (1).jpg" crc="4224560799" seo="true" ref="contact"/>
+    <file name="u530-4.png" crc="148420058" ref="contact"/>
+  </folder>
+  <file name="index.html" crc="58231330" seo="true" mt="1512424893349" redirect="true"/>
+  <file name="about.html" crc="458299470" seo="true" mt="1512424870168" redirect="true"/>
+  <file name="gallery.html" crc="3806358863" seo="true" mt="1512422635611" redirect="true"/>
+  <file name="contact.html" crc="458959342" seo="true" mt="1512424262928" redirect="true"/>
+</manifest>
